@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**k0ket/k0ket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Day:
+- 🧑‍💻 PHP, Laravel, Symfony
+- 💻 JS, Vue, Alpine
+- 👨‍🏫 Computer science teacher
 
-Here are some ideas to get you started:
+🔭 Now I work as a full-stack developer and a CS teacher at a college
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Night:
+- 🎮 Godot, GdSctipt
+- 🖌️ Blender
+- 🎸 Guitar
+🔭 I’m currently working on 3d puzzle game.
