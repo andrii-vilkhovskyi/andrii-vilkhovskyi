@@ -1,10 +1,11 @@
 # Hi there 👋
 
-I'm a **Full-Stack Developer** by day and an **Indie Game Developer** by night!
+I'm an **Engineering Manager & Full-Stack Developer** by day, and an **Indie Game Developer** by night!
 
 ---
 
 ### ☀️ By Day
+- 👔 **Engineering Manager (Team Lead)** leading engineering teams and driving project delivery
 - 🧑‍💻 **Full-Stack Developer** specializing in modern web applications
 - 👨‍🏫 **Computer Science Teacher** at a college, sharing knowledge and inspiring future developers
 
@@ -17,7 +18,7 @@ I'm a **Full-Stack Developer** by day and an **Indie Game Developer** by night!
 
 ### 🛠️ Tech Stack & Tools
 
-**Web Development**
+**Web Development & Management**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
